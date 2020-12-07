@@ -14,8 +14,12 @@ I am a software engineer based in Tuban, Indonesia. With a great passion for all
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.3]: <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+
+<!-- <a href="https://instagram.com/dennypyp" target="blank"><img src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" alt="dennypyp" width="22px" margin="10px"/></a> -->
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/DennyPYP
+[2]: https://instagram.com/dennypyp
 
