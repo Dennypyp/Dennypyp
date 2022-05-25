@@ -5,7 +5,8 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a Software Developer based in Tuban, Indonesia. With a great passion for all things in Information System and Science Technology, and I intend on working towards a career in the same industry. Still go deep into some web technologies like Laravel, VueJS, Flutter, and ReactJS frameworks. Get in touch via email at denny.pyp11@gmail.com, or You can find me on denny.pyp11@gmail.com
+I am a Software Developer based in Tuban, Indonesia. With a great passion for all things in Information System and Science Technology, and I intend on working towards a career in the same industry. Still go deep into some web technologies like Laravel, VueJS, Flutter, and ReactJS frameworks. Get in touch via email at denny.pyp11@gmail.com.
+<!-- , or You can find me on denny.pyp11@gmail.com -->
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dennypyp&show_icons=true&theme=prussian)
